@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from '../components/Layout';
 import { BrowserRouter as Router } from 'react-router-dom';
-import logoImage from '../assets/Logo.svg'
+import logoImage from '../../public/Logo.svg'
 import '../Index.css'
 
 const Index = () => {
